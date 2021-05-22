@@ -1,5 +1,3 @@
-# predictive-analysis-of-heart-disease
-
 ## Solution Design
 
 #### DATA :
